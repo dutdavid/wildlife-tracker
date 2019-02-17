@@ -3,7 +3,7 @@ apply plugin: 'application'
 
 archivesBaseName = "wildlife-tracker"
 version = '1.0'
-applicationName = 'app'
+applicationName = 'wildlife-tracker'
 mainClassName = "App"
 
 repositories {
@@ -19,4 +19,4 @@ dependencies {
 }
 
 
-task stage(dependsOn: ['clean', 'installApp'])
+task stage(dependsOn: ['clean', 'installDist'])
