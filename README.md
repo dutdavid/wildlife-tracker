@@ -13,7 +13,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <https://github.com/dutdavid/wildlife-tracker>` this repository
+* `git clone <https://github.com/dudavid/wildlife-tracker>` this repository
 * `cd wildlife-tracker`
 
 ## Running / Development
