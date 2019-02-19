@@ -166,6 +166,7 @@ public class App {
       response.redirect("/animals");
       return new ModelAndView(model, layout);
     }, new VelocityTemplateEngine());
+    
 
     get("/sightings/:id/delete", (request, response) -> {
       Map<String, Object> model = new HashMap<String, Object>();
