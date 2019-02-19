@@ -1,6 +1,6 @@
 # Project Name: Wildlife Tracker
 
-An an application that allows Rangers to track wildlife sightings in the area.
+An an application that allows Rangers to track wildlife sightings in the area by adding either endangered animals or normal animals and a sighting that they were seen in.
 
 ## Created by: David Dut
 
